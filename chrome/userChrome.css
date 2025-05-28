@@ -2725,3 +2725,8 @@ richlistitem {
 }
 }
 }
+
+* {
+  font-family: "DM Sans 14pt" !important;  /* Replace with your preferred font */
+  font-size: 14px !important;          /* Optional: adjust font size */
+}
