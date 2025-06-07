@@ -72,8 +72,9 @@ body { background-color: #282828 !important; }
 }
 }
 
-.search-container input[type="search"] {
-  background: light-dark(#eeeeef, #373737) !important;
+@-moz-document url-prefix(about:) {
+input[type="search"] {
+  background-color: light-dark(#eeeeef, #373737) !important;
   border-color: transparent !important;
   outline-style: solid !important;
   outline-color: transparent !important;
@@ -107,6 +108,7 @@ search-textbox {
   outline-style: solid !important;
   outline-color: transparent !important;
   outline-width: 18px !important;
+}
 }
 
 @-moz-document url-prefix("about:firefoxview") {

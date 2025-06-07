@@ -1,7 +1,7 @@
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/819d3b82-f56e-4d52-8f8c-b68bd599c73a">
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2dffdcdf-a123-4a23-b8b6-9c7beb7439fa">
-<img width="1270" alt="01">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d7699474-d17b-4560-a9d6-9e1ecaac0ba5">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/90f88774-2886-4a02-aae8-6814f3199adb">
+<img width="1495" alt="01">
 </picture>
 
 - This theme is suitable for Firefox 138+ `Mac` `Win` *
